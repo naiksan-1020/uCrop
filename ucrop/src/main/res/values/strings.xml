@@ -10,5 +10,8 @@
     <string name="ucrop_rotate">Rotate</string>
     <string name="ucrop_scale">Scale</string>
     <string name="ucrop_crop">Crop</string>
+    <string name="ucrop_cancel">Cancel</string>
+    <string name="ucrop_done">Done</string>
+    <string name="ucrop_select_area">Select Area</string>
 
 </resources>
